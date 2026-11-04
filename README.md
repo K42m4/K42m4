@@ -1,15 +1,15 @@
-# 🖐️ ¡Hola! Soy Nicolas Murcia
+# 🛠️ Bienvenido a mi taller — Nicolas Murcia
 
 📌 Estudiante de Ingeniería de Software | Cloud & Serverless Developer
 📍 Bogotá, Colombia
 📧 tu-email@ejemplo.com
-🔗 [LinkedIn](https://linkedin.com/in/tu-perfil) | [GitHub](https://github.com/K42m4)
+🔗 [LinkedIn](linkedin.com/in/n1c0l45mu2c14) | [GitHub](https://github.com/K42m4)
 
 ## 👤 Sobre mí
 
-Soy estudiante de Ingeniería de Software enfocado en el desarrollo **Cloud-Native**, arquitecturas **Serverless** e integración de **Inteligencia Artificial Generativa** sobre AWS. Cuento con certificaciones en **Ciberseguridad (Google)** y **Administración Linux (Hack4u)**.
+Soy estudiante de Desarrollo de Software enfocado en el desarrollo de aplicaciones eficientes, escalables y seguras. Mi perfil combina una sólida base en administración de sistemas **Linux** y **ciberseguridad** con capacidades en desarrollo web e infraestructura en la nube.
 
-Tengo experiencia práctica construyendo soluciones escalables e integrando servicios en la nube, habiendo sido ganador de Hackathon AWS mediante el desarrollo de aplicaciones serverless. Me apasiona la seguridad informática, la automatización y la infraestructura moderna.
+Recientemente he ampliado mis herramientas tecnológicas hacia el desarrollo **Cloud-Native** e integración de Inteligencia Artificial en **AWS**, aplicando estos conocimientos en la construcción de arquitecturas serverless y proyectos galardonados en **hackathones**. Me apasiona resolver problemas complejos, automatizar procesos y mantener una curiosidad constante por aprender nuevas tecnologías.
 
 ---
 

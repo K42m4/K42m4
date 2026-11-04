@@ -2,7 +2,7 @@
 
 📌 Estudiante de Ingeniería de Software | Cloud & Serverless Developer
 📍 Bogotá, Colombia
-📧 tu-email@ejemplo.com
+📧 nicos-3421@outlook.com
 🔗 [LinkedIn](linkedin.com/in/n1c0l45mu2c14) | [GitHub](https://github.com/K42m4)
 
 ## 👤 Sobre mí

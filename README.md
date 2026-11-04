@@ -13,7 +13,7 @@ Recientemente he ampliado mis herramientas tecnológicas hacia el desarrollo **C
 
 ---
 
-## 🧠 Stack Tecnológico
+## 🧠 Stack Tecnico
 
 * **Lenguajes:** Python, JavaScript, Bash, SQL, HTML/CSS
 * **Cloud & Serverless (AWS):** AWS Lambda, DynamoDB, Amazon Bedrock, API Gateway, Cognito, SNS, CloudFront, S3

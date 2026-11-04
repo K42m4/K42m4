@@ -29,11 +29,11 @@ Recientemente he ampliado mis herramientas tecnológicas hacia el desarrollo **C
 Aplicación web serverless impulsada por IA para la gestión y recuperación inteligente de objetos perdidos.
 🛠️ *AWS Bedrock · Lambda · DynamoDB · API Gateway · Cognito · Python*
 
-🔹 **[SafeRoutes]()** | *Cloud Platform*
+🔹 **SafeRoutes** | *Cloud Platform*
 Plataforma de monitoreo de emergencias y seguridad turística construida sobre arquitectura cloud-native.
 🛠️ *AWS Connect · Lambda · DynamoDB · Amazon SNS · CloudFront · S3*
 
-🔹 **[Home NAS & Homelab]()** | *Infraestructura & Linux*
+🔹 **Home NAS & Homelab** | *Infraestructura & Linux*
 Servidor de almacenamiento local y servicios autocontenidos con políticas de hardenización y contenedores.
 🛠️ *Debian Server · Docker · OpenMediaVault · Bash · Linux Security*
 

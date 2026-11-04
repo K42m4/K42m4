@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🖐️ ¡Hola! Soy Nicolas Murcia
 
-<!--
-**K42m4/K42m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Estudiante de Ingeniería de Software | Cloud & Serverless Developer
+📍 Bogotá, Colombia
+📧 tu-email@ejemplo.com
+🔗 [LinkedIn](https://linkedin.com/in/tu-perfil) | [GitHub](https://github.com/K42m4)
 
-Here are some ideas to get you started:
+## 👤 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Ingeniería de Software enfocado en el desarrollo **Cloud-Native**, arquitecturas **Serverless** e integración de **Inteligencia Artificial Generativa** sobre AWS. Cuento con certificaciones en **Ciberseguridad (Google)** y **Administración Linux (Hack4u)**.
+
+Tengo experiencia práctica construyendo soluciones escalables e integrando servicios en la nube, habiendo sido ganador de Hackathon AWS mediante el desarrollo de aplicaciones serverless. Me apasiona la seguridad informática, la automatización y la infraestructura moderna.
+
+---
+
+## 🧠 Stack Tecnológico
+
+* **Lenguajes:** Python, JavaScript, Bash, SQL, HTML/CSS
+* **Cloud & Serverless (AWS):** AWS Lambda, DynamoDB, Amazon Bedrock, API Gateway, Cognito, SNS, CloudFront, S3
+* **Seguridad & Sistemas:** Ciberseguridad, Hardenización de Sistemas Linux, IAM
+* **Bases de Datos:** DynamoDB, PostgreSQL, MySQL
+* **Herramientas & Entorno:** Git, GitHub, Docker, AWS CLI, VS Code, Linux, Windows

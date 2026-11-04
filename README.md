@@ -20,3 +20,39 @@ Recientemente he ampliado mis herramientas tecnológicas hacia el desarrollo **C
 * **Seguridad & Sistemas:** Ciberseguridad, Hardenización de Sistemas Linux, IAM
 * **Bases de Datos:** DynamoDB, PostgreSQL, MySQL
 * **Herramientas & Entorno:** Git, GitHub, Docker, AWS CLI, VS Code, Linux, Windows
+
+---
+
+## 🚀 Proyectos Destacados
+
+🔹 **[Lost&Found]([https://github.com/K42m4](https://github.com/K42m4/lost-and-found-aws))** | *Ganador Hackathon AWS 🏆*
+Aplicación web serverless impulsada por IA para la gestión y recuperación inteligente de objetos perdidos.
+🛠️ *AWS Bedrock · Lambda · DynamoDB · API Gateway · Cognito · Python*
+
+🔹 **[SafeRoutes](https://github.com/K42m4)** | *Cloud Platform*
+Plataforma de monitoreo de emergencias y seguridad turística construida sobre arquitectura cloud-native.
+🛠️ *AWS Connect · Lambda · DynamoDB · Amazon SNS · CloudFront · S3*
+
+🔹 **[Home NAS & Homelab](https://github.com/K42m4)** | *Infraestructura & Linux*
+Servidor de almacenamiento local y servicios autocontenidos con políticas de hardenización y contenedores.
+🛠️ *Debian Server · Docker · OpenMediaVault · Bash · Linux Security*
+
+---
+
+## 📈 Enfoque Actual
+
+🚀 **Rutina de mejora constante con énfasis en:**
+
+* 🧩 **Desarrollo de Software & Arquitectura Cloud:** Creación de aplicaciones escalables y eficientes.
+* 🛡️ **Ciberseguridad & Linux:** Práctica en hardening de sistemas, administración y seguridad defensiva.
+* 🧠 **Resolución de Problemas:** Lógica de programación, algoritmos y optimización de código.
+* 🤝 **Networking Activo:** Conectando con desarrolladores y reclutadores en el ecosistema tech.
+
+---
+
+## 📬 ¡Contactame!
+
+Abierto a oportunidades como desarrollador Junior/Trainee en Software, Cloud o Ciberseguridad (presencial en Bogotá o remoto). Si buscas sumar talento a tu equipo o deseas colaborar en algún proyecto, ¡hablemos!
+
+📧 nicos-3421@outlook.com<br>
+🔗 [LinkedIn](linkedin.com/in/n1c0l45mu2c14)

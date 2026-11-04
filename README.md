@@ -1,8 +1,8 @@
 # 🛠️ Bienvenido a mi taller — Nicolas Murcia
 
-📌 Estudiante de Ingeniería de Software | Cloud & Serverless Developer
-📍 Bogotá, Colombia
-📧 nicos-3421@outlook.com
+📌 Estudiante de Ingeniería de Software | Cloud & Serverless Developer<br>
+📍 Bogotá, Colombia<br>
+📧 nicos-3421@outlook.com<br>
 🔗 [LinkedIn](linkedin.com/in/n1c0l45mu2c14) | [GitHub](https://github.com/K42m4)
 
 ## 👤 Sobre mí

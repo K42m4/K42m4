@@ -3,7 +3,7 @@
 📌 Estudiante de Ingeniería de Software | Cloud & Serverless Developer<br>
 📍 Bogotá, Colombia<br>
 📧 nicos-3421@outlook.com<br>
-🔗 [LinkedIn](linkedin.com/in/n1c0l45mu2c14](https://www.linkedin.com/in/n1c0l45mu2c14/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFI5KF4JkQheLOcLbn0Doqg%3D%3D) | [GitHub](https://github.com/K42m4)
+🔗 [LinkedIn](https://www.linkedin.com/in/n1c0l45mu2c14/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFI5KF4JkQheLOcLbn0Doqg%3D%3D) | [GitHub](https://github.com/K42m4)
 
 ## 👤 Sobre mí
 
@@ -25,7 +25,7 @@ Recientemente he ampliado mis herramientas tecnológicas hacia el desarrollo **C
 
 ## 🚀 Proyectos Destacados
 
-🔹 **[Lost&Found](https://github.com/K42m4](https://github.com/K42m4/lost-and-found-aws)** | *Ganador Hackathon AWS 🏆*
+🔹 **[Lost&Found](https://github.com/K42m4/lost-and-found-aws)** | *Ganador Hackathon AWS 🏆*
 Aplicación web serverless impulsada por IA para la gestión y recuperación inteligente de objetos perdidos.
 🛠️ *AWS Bedrock · Lambda · DynamoDB · API Gateway · Cognito · Python*
 
@@ -55,4 +55,4 @@ Servidor de almacenamiento local y servicios autocontenidos con políticas de ha
 Abierto a oportunidades como desarrollador Junior/Trainee en Software, Cloud o Ciberseguridad (presencial en Bogotá o remoto). Si buscas sumar talento a tu equipo o deseas colaborar en algún proyecto, ¡hablemos!
 
 📧 nicos-3421@outlook.com<br>
-🔗 [LinkedIn]([linkedin.com/in/n1c0l45mu2c14](https://www.linkedin.com/in/n1c0l45mu2c14/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFI5KF4JkQheLOcLbn0Doqg%3D%3D))
+🔗 [LinkedIn](https://www.linkedin.com/in/n1c0l45mu2c14/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFI5KF4JkQheLOcLbn0Doqg%3D%3D)

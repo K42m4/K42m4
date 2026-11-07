@@ -1,6 +1,6 @@
 # 🛠️ Bienvenido a mi taller — Nicolas Murcia
 
-📌 Estudiante de Ingeniería de Software | Cloud Developer<br>
+📌 Estudiante de Desarrollo de Software | Cloud Developer<br>
 📍 Bogotá, Colombia<br>
 📧 nicos-3421@outlook.com<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/n1c0l45mu2c14/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFI5KF4JkQheLOcLbn0Doqg%3D%3D) | [GitHub](https://github.com/K42m4)
